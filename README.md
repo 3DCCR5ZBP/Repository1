@@ -25,10 +25,15 @@ This shows the split between the social media platfrom used, Instagram, or Tickt
 We can see from these distributions that despite some irregurlarities the dataset contains a good split across the different metrics for social media use, gender, and age.
 
 ### Average of Stress and Anxiety by Age
-![Platform](images/AVGStress&Anxiety_Age.PNG)
+![AVGofStress&Anx](images/AVGStress&Anxiety_Age.PNG)
 
 
 ### Average of Anxiety, Stress Level and Addiction Level by Age, Social Interaction and Platform
+![GraphHigh](images/GraphHigh.PNG)
+![GraphMed](images/GraphMedium.PNG)
+![GraphLow](images/GraphLow.PNG)
+
+
 
 
 ### Project 2 - Agent Code Usege Report
