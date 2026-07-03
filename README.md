@@ -7,13 +7,13 @@ Age,	Gender, Daily Social Media Hours,	Platform Usage,	Sleep Hours,	Screen Time 
 
 ## Data Distribution
 ### Age Distribution
-![age](images/Age%20Distribution.png)
+![age](images/AgeDistribution.png)
 
 ### Gender Distribution
-![Gender](images/Gender%20Distribution.png)
+![Gender](images/GenderDistribution.png)
 
 ### Platform Distrubtion
-![Platform](images/Platform%20Distribution.png)
+![Platform](images/PlatformDistribution.png)
 
 ### Project 1 - Predicting Breached Calls using Linear Regression
 
