@@ -21,6 +21,7 @@ Ideally a straight 50/50 split would be preferred, in this data set there is a +
 
 This shows the split between the social media platfrom used, Instagram, or Ticktock, or if they use both. 400 should be the average on a 33.3%, currently we have a 32%, 33%  and 34% across the 3 profiles.
 
+
 We can see from these distributions that despite some irregurlarities the dataset contains a good split across the different metrics for social media use, gender, and age.
 
 ### Project 1 - Predicting Breached Calls using Linear Regression
