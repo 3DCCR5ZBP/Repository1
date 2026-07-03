@@ -28,5 +28,7 @@ We can see from these distributions that despite some irregurlarities the datase
 ![Platform](images/AVGStress&Anxiety_Age.PNG)
 
 
+### Average of Anxiety, Stress Level and Addiction Level by Age, Social Interaction and Platform
+
 
 ### Project 2 - Agent Code Usege Report
