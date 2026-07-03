@@ -8,12 +8,17 @@ Age,	Gender, Daily Social Media Hours,	Platform Usage,	Sleep Hours,	Screen Time 
 ## Data Distribution
 ### Age Distribution
 ![age](images/AgeDistribution.PNG)
+An average split across the 7 ages would be 171 agents, the groups furthest away from this is 14 year olds -18 below the average and 13 year olds +29 above the average.
 
 ### Gender Distribution
 ![Gender](images/GenderDistribution.PNG)
+Ideally a straight 50/50 split would be preferred, in this data set there is a +15 (1.25%) in favour of males.
 
 ### Platform Distrubtion
 ![Platform](images/PlatformDistribution.PNG)
+This shows the split between the social media platfrom used, Instagram, or Ticktock, or if they use both. 400 should be the average on a 33.3%, currently we have a 32%, 33%  and 34% across the 3 profiles.
+
+We can see from these distributions that despite some irregurlarities the dataset contains a good split across the different metrics for social media use, gender, and age.
 
 ### Project 1 - Predicting Breached Calls using Linear Regression
 
