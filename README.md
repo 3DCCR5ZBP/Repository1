@@ -28,6 +28,11 @@ We can see from these distributions that despite some irregurlarities the datase
 ![AVGofStress&Anx](images/AVGStress&Anxiety_Age.PNG)
 
 
+### Stress and Anxiety Boxplot
+![S&ABoxPlot](images/Stress&AnxietyBoxPlot.PNG)
+
+
+
 ### Average of Anxiety, Stress Level and Addiction Level by Age, Social Interaction and Platform
 ![GraphHigh](images/GraphHigh.PNG)
 ![GraphMed](images/GraphMedium.PNG)
