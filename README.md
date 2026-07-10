@@ -31,7 +31,10 @@ We can see from these distributions that despite some irregurlarities the datase
 ### Stress and Anxiety Boxplot
 ![S&ABoxPlot](images/Stress&AnxietyBoxPlot.PNG)
 
+### Total people with depression and percentage of the total.
+![Depression&%](images/DepAgeGraph.PNG)
 
+This Graph shows the total number of agents who have been diagnosed with depression and what percentage they represent of the total number of agents who are that age.
 
 ### Average of Anxiety, Stress Level and Addiction Level by Age, Social Interaction and Platform
 ![GraphHigh](images/GraphHigh.PNG)
