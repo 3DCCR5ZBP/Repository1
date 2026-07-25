@@ -36,7 +36,3 @@ Anxiety, on the other hand, is defined by persistent, excessive worries that don
 
 As the teenagers become more experienced, they stop being affected by issues that at one point would have impacted on their mental heal but instead they end up having to focus on other issues that they cannot control. E.g. Less time time to sped with friends due to Work or Family commitments, concerns for Rent, Food, cost of Energy.
 
-### Average of Anxiety, Stress Level and Addiction Level by Age, Social Interaction and Platform
-![GraphHigh](images/GraphHigh.PNG)
-![GraphMed](images/GraphMedium.PNG)
-![GraphLow](images/GraphLow.PNG)
