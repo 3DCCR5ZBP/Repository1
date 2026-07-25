@@ -35,4 +35,3 @@ The American Psychological Association describes the difference between stress a
 Anxiety, on the other hand, is defined by persistent, excessive worries that don’t go away even in the absence of a stressor. Anxiety leads to a nearly identical set of symptoms as stress: insomnia, difficulty concentrating, fatigue, muscle tension, and irritability."
 
 As the teenagers become more experienced, they stop being affected by issues that at one point would have impacted on their mental heal but instead they end up having to focus on other issues that they cannot control. E.g. Less time time to sped with friends due to Work or Family commitments, concerns for Rent, Food, cost of Energy.
-
