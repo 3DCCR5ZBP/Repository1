@@ -1,4 +1,7 @@
-# Tean Mental Health Data Analysis
+# Tean Mental Health Data Analysis - Building a Logistic Regression Model to predict if they will develop depression.
+The purpose of this data project is to build a model to predict if a teenager is in danger of developing depression.
+The multiple factors about the teh 
+
 This data source contains the records of 1200 Teenagers.
 The Columns within the data set are:
 
