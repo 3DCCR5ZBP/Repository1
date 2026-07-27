@@ -35,7 +35,10 @@ These tables were designed to present the average Stress and Anxiety level for e
 The American Psychological Association describes the difference between stress and anxiety using this phrase "People under stress experience mental and physical symptoms, such as irritability, anger, fatigue, muscle pain, digestive troubles, and difficulty sleeping.
 Anxiety, on the other hand, is defined by persistent, excessive worries that don’t go away even in the absence of a stressor. Anxiety leads to a nearly identical set of symptoms as stress: insomnia, difficulty concentrating, fatigue, muscle tension, and irritability."
 
-As the teenagers become more experienced, they stop being affected by issues that would cause stress but instead they end up having to focus on other issues that they cannot control. E.g. Less time time to sped with friends due to Work or Family commitments, concerns for Rent, Food, cost of Energy.
+As the teenagers become more experienced, they stop being affected by issues that would cause stress but instead they end up having to focus on other issues that they cannot control. E.g. Less time time to sped with friends due to I or Family commitments, concerns for Rent, Food, cost of Energy.
 
 
-** **Model Results**
+## Model Results
+Initial Results when testing the model are excellent. The data source has a total of 1200 students in the data set so testing on 20% gives us a testing pool of 240 satudents. The models accuracy shows at 0.9875 and the ROC-AUC shows as 0.9929 indicating an excelent outcome for helping the teenagers.
+The Confusion Matrix below show of the 240 students tested 233 were predicted and completed as at no risk of depression.
+![S&ABoxPlot](images/Stress&AnxietyBoxPlot.PNG)
