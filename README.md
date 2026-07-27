@@ -39,6 +39,9 @@ As the teenagers become more experienced, they stop being affected by issues tha
 
 
 ## Model Results
-Initial Results when testing the model are excellent. The data source has a total of 1200 students in the data set so testing on 20% gives us a testing pool of 240 people. The models accuracy shows at 0.9875 and the ROC-AUC shows as 0.9929 indicating an excelent outcome for helping the teenagers.
+Initial Results when testing the model are excellent. The data source has a total of 1200 students in the data set so testing on 20% gives us a testing pool of 240 people.
+The models accuracy shows at 0.9875 and the ROC-AUC shows as 0.9929 indicating an excelent outcome for helping the teenagers.
 The Confusion Matrix below show of the 240 students tested 233 were predicted and completed as at no risk of depression.
+
 ![S&ABoxPlot](images/RegressionConfusionMatrix.PNG)
+![S&ABoxPlot](images/ROC_Curve_Graph.PNG)
