@@ -46,4 +46,29 @@ The Confusion Matrix below show of the 240 students tested 233 were predicted an
 ![S&ABoxPlot](images/RegressionConfusionMatrix.PNG)
 ![S&ABoxPlot](images/ROC_Curve_Graph.PNG)
 
-You can see from the ROC (Receiver Operator Characteristic) curve shows almost a perfect classification with almost no errors and the . 
+You can see from the ROC (Receiver Operator Characteristic) curve shows almost a perfect classification with almost no errors and the Sigmoid Curve shows there is a low risk of the students developing depression based on the current data.. 
+
+![S&ABoxPlot](images/SigmoidCurve.PNG)
+
+## Next Steps
+The next steps on the project are to import the model. 
+
+![S&ABoxPlot](images/SigmoidCurve.PNG)
+
+When analysing the Model Calibration Curve you can the line is not running at the optimal 45 degree angle but instead fluctuates up and down near the beginning. 
+The Graphs starts at 0,0 this means there were almost no confirmed cases of depression in the data, when you check the number of the data only 31 of 1200 people were confirmed as diagnosed. This is helpful to the model as it helps identify students who are at low risk of depression. The table below shows the number of confirmed depressed students in each age and what percentage they are to the total number of students in that bracket.
+
+![S&ABoxPlot](images/SigmoidCurve.PNG)
+
+On the first point on the curve you can see a 10% predicted probability but 50% actual probability well above the calibration line. This indicated the model is underconfident in this region.
+
+At the 35%/40% prediction line it shows an actual prediction of 0 showing the model is overconfident in this region. 
+
+At the 50%/55% prediction mark the model is almost exactly on the line showing as the best calibrated point of the entire model. 
+
+Above this at the 72% and 86% prediction level are showing an actual of 1. Again, this suggests the model is slightly underconfident at high predicted probabilities.
+
+The cause of this is likely two fold. First the size of the data set, while 1200 students sound like a lot given the nature of what we are trying to predict a larger data source could improve the model.
+The second reason is due to the low number of student with confirmed depression in could result in few observations in each probability bin when the model runs.
+
+In short the initial findings are positive but more work would need to be done before the project can go live.
