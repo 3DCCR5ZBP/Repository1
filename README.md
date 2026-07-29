@@ -53,12 +53,12 @@ You can see from the ROC (Receiver Operator Characteristic) curve shows almost a
 ## Next Steps
 The next steps on the project are to import the model. 
 
-![S&ABoxPlot](images/SigmoidCurve.PNG)
+![S&ABoxPlot](images/CalibrationCurve.PNG)
 
 When analysing the Model Calibration Curve you can the line is not running at the optimal 45 degree angle but instead fluctuates up and down near the beginning. 
 The Graphs starts at 0,0 this means there were almost no confirmed cases of depression in the data, when you check the number of the data only 31 of 1200 people were confirmed as diagnosed. This is helpful to the model as it helps identify students who are at low risk of depression. The table below shows the number of confirmed depressed students in each age and what percentage they are to the total number of students in that bracket.
 
-![S&ABoxPlot](images/SigmoidCurve.PNG)
+![S&ABoxPlot](images/DepAgeGraph.PNG)
 
 On the first point on the curve you can see a 10% predicted probability but 50% actual probability well above the calibration line. This indicated the model is underconfident in this region.
 
